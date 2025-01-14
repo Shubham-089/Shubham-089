@@ -6,7 +6,7 @@
 
 -💻 About Me
 
--A passionate Software Development Engineer in Test (SDET) who excels in ensuring high-quality software through robust test automation and manual testing techniques..
+-A passionate Software Development Engineer in Test (SDET) who excels in ensuring high-quality software through robust test automation and manual testing techniques.
 
 -🌱 Learning
 
@@ -14,7 +14,7 @@
 - 👋 Hi, I’m Shubham Yetonde 👋 Welcome to my Profile!
 -  👀 I’m Currently Working as an SDET.
 - 🌱 I’m currently learning: Advanced Cypress, Selenium, and API Testing.
-- 💬 Ask me about **Manual Testing, Automation Testing, Test Strategy, PostmanAPI, Cypress, Selenium.**
+- 💬 Ask me about **Manual Testing, PostmanAPI, Cypress, Selenium.**
 - 😄 Pronouns: He/Him
 - 📫 How to reach me **shubhamyetonde865@gmail.com**
 
