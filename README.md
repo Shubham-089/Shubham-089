@@ -7,8 +7,8 @@
 -💻 About Me
 
 -A passionate Software Development Engineer in Test (SDET) 
--who excels in ensuring high-quality software through robust test 
--automation and manual testing techniques.
+who excels in ensuring high-quality software through robust test 
+automation and manual testing techniques.
 
 -🌱 Learning
 
