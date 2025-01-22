@@ -20,7 +20,6 @@ automation and manual testing techniques.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me
 - Email:-**shubhamyetonde865@gmail.com**
-- Resume:-**h**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
