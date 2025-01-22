@@ -18,7 +18,9 @@ automation and manual testing techniques.
 - 🌱 I’m currently learning: Advanced Cypress, Selenium, and API Testing.
 - 💬 Ask me about **Manual Testing, PostmanAPI, Cypress, Selenium.**
 - 😄 Pronouns: He/Him
-- 📫 How to reach me **shubhamyetonde865@gmail.com**
+- 📫 How to reach me
+- Email:-**shubhamyetonde865@gmail.com**
+- Resume:-**h**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
